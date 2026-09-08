@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy HumbleDev 👋
 
-<!--
-**HumbleDev-tech/HumbleDev-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en desarrollo de software, optimización y entornos Linux.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Entorno
+
+- **Lenguajes:** C, C++, Python, Rust, JavaScript / TypeScript *(edita según tus lenguajes)*
+- **Herramientas:** Git, Neovim, Docker, Bash
+- **Sistema:** Linux (CachyOS / Arch Linux)
+
+---
+
+### 📌 Sobre mí
+
+- 🔭 Actualmente trabajando en proyectos de código abierto y herramientas de software.
+- ⚡ Interesado en rendimiento, kernels y optimización de sistemas.
+- 💬 Puedes consultarme sobre Linux y desarrollo.
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HumbleDev-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HumbleDev-tech&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+</p>
